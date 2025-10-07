@@ -1,4 +1,5 @@
-# Smart-2-Education-
+# Smart-2-Education- 
+file:///C:/Users/Harsh%20Tripathi%20Pc/OneDrive/Desktop/numpy/ses.html
 Smart Education — A web-based analytics dashboard that visualizes student performance through KPIs, subject averages, exam trends, leaderboards, study heatmaps, and mastery indicators, offering interactive insights for teachers and students using HTML, CSS, and JavaScript.
 Step 1: Define sections
 
